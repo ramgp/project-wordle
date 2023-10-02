@@ -176,6 +176,15 @@ h1 {
   will-change: transform;
 }
 
+.play-again-btn {
+  font-size: 2rem;
+  text-align: center;
+  padding: 5px 15px;
+  border-radius: 0.5rem;
+  color: black;
+  background: var(--color-gray-900);
+}
+
 .happy.banner {
   background: var(--color-success);
   color: white;
